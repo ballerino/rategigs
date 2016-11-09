@@ -15,7 +15,11 @@ html, body{
 
 
 nav {
+<<<<<<< HEAD
 	background-color: #000;
+=======
+	background-color: #fff;
+>>>>>>> origin/master
 	height: 45px;
 	margin-bottom: 50px;
 }
