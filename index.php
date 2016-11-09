@@ -20,6 +20,7 @@
 			<li><a href="rateartist.html" title="Rate an Artist">Rate an Artist</a></li>
 			<li><a href="ratevenue.html" title="Rate a Venue">Rate a Venue</a></li>
 			<li><a href="links.html" title="Read a Mlog">Read a mlog</a></li>
+            <li><a href="photos.html" title="Photos">Photos</a></li>
 			<li><a href="events.html" title="Social">Social</a></li>
 			</ul>
 		</nav>

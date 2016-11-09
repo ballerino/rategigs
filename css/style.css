@@ -15,7 +15,7 @@ html, body{
 
 
 nav {
-	background-color: #301b1b;
+	background-color: #000;
 	height: 45px;
 	margin-bottom: 50px;
 }
@@ -43,7 +43,7 @@ nav a {
 	height: 35px;
 	text-align:center; 
 	display: block;
-	background-color: #301b1b;
+	background-color: #000;
     transition: background-color 1.0s ease;
 }
 
@@ -56,11 +56,10 @@ nav a:hover {
 #wrap{
 	margin: 0px auto 0px auto;
 	background-color: #301b1b;
-	width: 85%;
+	width: 80%;
 	height: 100%;
 	padding: 10px 0px 0px 0px;
 	min-width: 850px;
-	max-width: 950px;
 	box-shadow: 1px 1px 10px #818b92, 1px 1px 10px #818b92;
 }
 
@@ -127,11 +126,12 @@ a:hover{
 
 .leftbox {
     margin: 5px 5px 15px 5px;
-	width: 440px;
+	width: 48%;
 	text-align: left;
 	float: left;
 	clear:both;	
     background-color: #fff;
+    height: 220px;
     padding: 3px;
 }
 
@@ -143,12 +143,11 @@ a:hover{
 
 .rightbox {
     margin: 5px 5px 15px 5px;
-	width: 440px;
+	width: 48%;
 	text-align: left;
 	float: right;
     background-color: #fff;
-    height: 120px;
-    width: 440px;
+    height: 220px;
     padding: 3px;
 }
 
