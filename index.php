@@ -14,7 +14,7 @@
 	<body>	
 		<div id="wrap">
 		<h1><img src="images/header1.jpg" alt="header image" style="width:auto; height:auto;"></h1>
-        <div id="nav">    
+           
 		<nav>
 			<ul>
 			<li><a href="index.php" title="Home">Home</a></li>
@@ -26,7 +26,7 @@
 			</ul>
 				
             </nav>
-            </div>
+         
 		
 		<div id="main">
         

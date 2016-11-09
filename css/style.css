@@ -123,6 +123,7 @@ a:hover{
 	background-color: #fff;
 	padding: 10px;
 	line-height: 130%;
+    opacity: 0.9;
 }
 
 .leftbox {
@@ -134,6 +135,7 @@ a:hover{
     background-color: #fff;
     height: 220px;
     padding: 3px;
+    opacity: 0.9;
 }
 
 .leftbox:hover{
@@ -150,6 +152,7 @@ a:hover{
     background-color: #fff;
     height: 220px;
     padding: 3px;
+    opacity: 0.9;
 }
 
 .rightbox:hover{
